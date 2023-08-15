@@ -39,3 +39,13 @@ Caso de teste 04 - Finalizar a compra de um produto
     Ir na aba de lista de compras
     Clicar no botão finalizar compra
     Verificar se a compra foi efetuada
+
+Caso de teste 05 - Tentar realizar um login sem as devidas credenciais 
+     [Documentation]     Esse teste verifica a possibilidade de efetuar o login sem as credenciais corretas
+     [Tags]               Login
+    Abrir o Navegador
+    Acessar a Home Page do site amazon.com.br
+    Ir na aba Faça Seu Login
+    Inserir um email incorreto
+    Clicar em "Continuar"
+    Verificar se aaprece um alerta
