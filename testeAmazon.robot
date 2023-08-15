@@ -48,4 +48,4 @@ Caso de teste 05 - Tentar realizar um login sem as devidas credenciais
     Ir na aba Faça Seu Login
     Inserir um email incorreto
     Clicar em "Continuar"
-    Verificar se aaprece um alerta
+    Verificar se o alerta fica visível
